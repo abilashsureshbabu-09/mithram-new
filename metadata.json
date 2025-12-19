@@ -1,0 +1,8 @@
+{
+  "name": "Mithram Elite Constructions",
+  "description": "A premium, full-featured construction company website with a project showcase, smart AI assistant, and administrative dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

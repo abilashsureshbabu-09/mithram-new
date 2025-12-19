@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mithram-elite-constructions.web.app/sitemap.xml
